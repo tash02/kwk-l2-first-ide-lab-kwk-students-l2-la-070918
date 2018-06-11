@@ -378,4 +378,4 @@
   <br>
 
   8. If you ever get stuck, use "Ask a Question" to get help, don't be shy!
-  </div> <p data-visibility='hidden'>KWK-L1 Your First IDE Lab</p>
+  </div> <p data-visibility='hidden'>KWK-L2 Your First IDE Lab</p>
